@@ -14,4 +14,11 @@ SumはAleaを使った方が早く、Averageは大きく変わらない。
 
 <img src="./image/test_result.gif" width="500">
 
+## Environment
+
++ windows10
++ memory 32GB
++ cpu i7-6700K
++ gpu GTX1060 3GB
+
 

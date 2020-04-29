@@ -2,9 +2,9 @@
 using System.Drawing;
 using Grasshopper.Kernel;
 
-namespace test_gpu_component
+namespace GpuComputingTest
 {
-    public class test_gpu_componentInfo:GH_AssemblyInfo
+    public class GpuComputingTestInfo:GH_AssemblyInfo
     {
         public override string Name
         {

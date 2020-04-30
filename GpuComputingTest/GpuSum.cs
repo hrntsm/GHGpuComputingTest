@@ -51,6 +51,7 @@ namespace GpuComputingTest
         /// </summary>
         /// <param name="DA">The DA object can be used to retrieve data from input parameters and 
         /// to store data in output parameters.</param>
+        [GpuManaged]
         protected override void SolveInstance(IGH_DataAccess DA)
         {
             var gpu = Gpu.Default;
